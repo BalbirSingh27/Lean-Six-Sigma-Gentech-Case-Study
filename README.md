@@ -1,9 +1,5 @@
 # 📈 Lean Six Sigma Case Study – Optimizing Gentech’s Proposal Cycle Time
 
-## 🧑‍💼 Team Members
-
-Reshini Suresh Kumar • Riya Agarwal • Kalpesh Balkrushna Patil • **Balbir Singh**
-
 ---
 
 ## 🏢 About Gentech
@@ -78,5 +74,3 @@ Identify root causes for declining revenue and **optimize the proposal creation 
 📧 [bsingh73@asu.edu](mailto:bsingh73@asu.edu)
 
 ---
-
-⭐ *Actively seeking roles in Business/Data Analytics (STEM OPT eligible)*
