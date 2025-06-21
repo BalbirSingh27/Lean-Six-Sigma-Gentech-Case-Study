@@ -50,8 +50,6 @@ Identify root causes for declining revenue and **optimize the proposal creation 
 * ⏱️ **Cycle time reduced**: From 32 → 26 days (18% reduction)
 * 💰 **Revenue increase**: Estimated **$1.6 Billion** gain from efficiency
 
-![Cycle Time Reduction](cycle_time_reduction_chart.png)
-
 ---
 
 ## 🧰 Tools Used
