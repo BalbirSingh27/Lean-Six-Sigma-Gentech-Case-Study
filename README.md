@@ -4,7 +4,7 @@
 
 ## 🏢 About Gentech
 
-Gentech is a global multinational firm with an annual revenue of \$60 billion. Recently, the company experienced an **18% decline in revenue**, prompting a detailed operational investigation.
+Gentech is a global multinational firm with an annual revenue of $60 billion. Recently, the company experienced an **18% decline in revenue**, prompting a detailed operational investigation.
 
 ---
 
@@ -29,7 +29,6 @@ Identify root causes for declining revenue and **optimize the proposal creation 
 * 📉 **21,079** transactions breached the 35-day SLA
 * 🔎 Major bottlenecks: **ZQT6 & ZQT8** bid types
 * ⚠️ Common issues:
-
   * Long wait times
   * Manual interventions
   * Incomplete or incorrect configurations
@@ -49,7 +48,9 @@ Identify root causes for declining revenue and **optimize the proposal creation 
 ## 📈 Business Impact
 
 * ⏱️ **Cycle time reduced**: From 32 → 26 days (18% reduction)
-* 💰 **Revenue increase**: Estimated **\$1.6 Billion** gain from efficiency
+* 💰 **Revenue increase**: Estimated **$1.6 Billion** gain from efficiency
+
+![Cycle Time Reduction](cycle_time_reduction_chart.png)
 
 ---
 
@@ -70,7 +71,7 @@ Identify root causes for declining revenue and **optimize the proposal creation 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bsingh27-blue)](https://linkedin.com/in/bsingh27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bsingh27-blue)](https://linkedin.com/in/bsingh27)  
 📧 [bsingh73@asu.edu](mailto:bsingh73@asu.edu)
 
 ---
